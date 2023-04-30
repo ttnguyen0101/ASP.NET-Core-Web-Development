@@ -1,0 +1,2 @@
+# Week 14
+In this lab, I worked with databases using the CRUD operations (Create, Read, Update, Delete). I added 2 new links, ProductDb and ContactDb, to the navigation bar on my store website. The ProductDb page allows me to add new products to the store, while the ContactDb allows me to add new contacts. These 2 views are typically only available for admin and not customers, but the login is not added in this lab. 
